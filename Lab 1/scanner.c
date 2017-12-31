@@ -64,7 +64,7 @@ int main(int argc, char** argv)
         // ignore any comments
         else if(ch == '/')
         {
-            if((c == fgetc(fp)) != EOF)
+            if((c = fgetc(fp)) != EOF)
             {
                 ch = (char)c;
                 if(ch == '/')
