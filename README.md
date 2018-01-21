@@ -8,8 +8,8 @@
    - scanner.l: a scanner for C, using lex
 3. **Lab 3**
    - capitalize.l: capitalizes a single-line comment, using lex
-   - precision.l: reports precision of real numbers
    - octhex.l: detects octal and hexadecimal representations
+   - precision.l: reports precision of real numbers
 4. **Lab 4**
    - email.l: validates an email ID
    - in_pre_post.l: detects whether a basic expression is infix/prefix/postfix
