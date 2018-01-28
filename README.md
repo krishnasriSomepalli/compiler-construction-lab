@@ -16,3 +16,5 @@
    - vowels_consonants.l: detects vowels and consonants
 5. **Lab 5**
    - rdp.c: a recursive descent parser
+6. **Lab 6**
+   - FIRST.c: takes a non left-recursive grammar as input and reports the FIRST of every non-terminal

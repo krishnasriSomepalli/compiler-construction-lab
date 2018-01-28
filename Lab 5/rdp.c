@@ -68,7 +68,7 @@ int parseEPrime()
     }
     else
     {
-        if(token != '+' || token != '-')
+        if(token != '+' && token != '-')
         {
             return 1;
         }
@@ -101,7 +101,7 @@ int parseTPrime()
     }
     else
     {
-        if(token != '*' || token != '/')
+        if(token != '*' && token != '/')
         {
             return 1;
         }
