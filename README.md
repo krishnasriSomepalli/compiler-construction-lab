@@ -18,3 +18,5 @@
    - rdp.c: a recursive descent parser
 6. **Lab 6**
    - FIRST.c: takes a non left-recursive grammar as input and reports the FIRST of every non-terminal
+7. **Lab 7**
+   - FOLLOW.c: takes a non left-recursive grammar as input and reports the FOLLOW of every non-terminal
