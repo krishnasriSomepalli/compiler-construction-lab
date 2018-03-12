@@ -20,3 +20,5 @@
    - FIRST.c: takes a non left-recursive grammar as input and reports the FIRST of every non-terminal
 7. **Lab 7**
    - FOLLOW.c: takes a non left-recursive grammar as input and reports the FOLLOW of every non-terminal
+8. **Lab 8**
+   - LL(1).c: takes a non left-recursive grammar as input and prints a table for determining if it is an LL(1) grammar 
