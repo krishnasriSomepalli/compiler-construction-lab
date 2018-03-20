@@ -22,3 +22,9 @@
    - FOLLOW.c: takes a non left-recursive grammar as input and reports the FOLLOW of every non-terminal
 8. **Lab 8**
    - LL(1).c: takes a non left-recursive grammar as input and prints a table for determining if it is an LL(1) grammar 
+9. **Lab 9**
+   Simple calculator implementation using YACC
+   - calculator.lex
+   - calculator.yacc
+10. **Lab 10**
+    - codeGeneration.cpp: takes an expression as input and generates Three Address Code and then its machine code format
